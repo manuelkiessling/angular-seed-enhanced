@@ -1,0 +1,14 @@
+{
+    "name": "example",
+    "version": "0.0.0",
+    "dependencies": {
+        "angular":          "1.2.16",
+        "angular-route":    "1.2.16",
+        "angular-sanitize": "1.2.16",
+        "angular-mocks":    "1.2.16",
+        "jquery":           "1.8.3",
+        "underscore":       "1.6.0",
+        "restangular":      "1.4.0"
+    },
+    "analytics": false
+}
