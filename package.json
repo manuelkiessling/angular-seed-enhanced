@@ -1,5 +1,5 @@
 {
-  "name": "AngularJS Example Project",
+  "name": "Example",
   "namelower": "example",
   "version": "0.0.1",
   "description": "An example AngularJS project",
@@ -24,6 +24,7 @@
     "karma-phantomjs-launcher": "0.1.4"
   },  
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "bower install",
+    "test": "grunt build"
   }
 }
